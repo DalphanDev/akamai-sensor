@@ -6,7 +6,7 @@
 
  ## What is an Akamai Sensor?
 
-One of Akamai's solutions involves generating something called a "sensor" on the user's web browser through the use of behind-the-scenes obfuscated javascript files. These files which I will now refer to as "scripts" fingerprint the browser through use of different data such as WebDrivers, Graphics Cards, Time, and random math calls. The idea, is that a sensor can either look realistic, or like a bot. And bot's should have a hard time accurately replicating these sensors since the files are obfuscated.
+One of Akamai's solutions involves generating something called a "sensor" on the user's web browser through the use of behind-the-scenes obfuscated javascript files. These files which I will now refer to as "scripts" fingerprint the browser through use of different data such as WebDrivers, Graphics Cards, Time, and random math calls. The idea, is that a sensor can either look realistic, or like a bot. And bot's should have a hard time accurately replicating these sensors since the files are obfuscated and only run on a user's browser.
 
 ## What is this repo?
 
