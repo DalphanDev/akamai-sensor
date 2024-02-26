@@ -15,3 +15,5 @@ This repo demonstrates how one can deobfuscate a script and reverse-engineer it 
 ## Notes
 
 Reference the sensor.go file, as this is the entire file that is able to generate sensors. As you step through the file, you can see there are a couple main functions each titled as a different step in the process. Each of these steps, has its own functions it uses to generate different data, which is then used in future functions. Overall the project took about 2 weeks to complete, and demonstrates key aspects of cybersecurity. For something to truly be 100% safe, no one can have access to it at all. In this case, it is impossible for Akamai to completely stop bots from spoofing sensor's and they are aware of that. The script is obfuscated to ward off potential reverse-engineering, however the determined ones will find a way, as it expected with time.
+
+[Link to Imgur Files](https://imgur.com/a/qaGVKNz)
